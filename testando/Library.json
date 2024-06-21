@@ -1,0 +1,54 @@
+{
+  "disponiveis" : [ {
+    "autor" : "Gabriel García Márquez",
+    "nome" : "Cem Anos de Solidão",
+    "genero" : "Realismo Mágico",
+    "exemplares" : 6
+  }, {
+    "autor" : "Harper Lee",
+    "nome" : "O Matador de Pássaros",
+    "genero" : "Racismo, Segregação Racial",
+    "exemplares" : 5
+  }, {
+    "autor" : "Yuval Noah Harari",
+    "nome" : "Sapiens: Uma Breve História da Humanidade",
+    "genero" : "Não Ficção, História",
+    "exemplares" : 12
+  }, {
+    "autor" : "George R.R. Martin",
+    "nome" : "As Crônicas de Gelo e Fogo",
+    "genero" : "Fantasia Épica",
+    "exemplares" : 18
+  }, {
+    "autor" : "Aldous Huxley",
+    "nome" : "Admirável Mundo Novo",
+    "genero" : "Ficção Científica Distópica",
+    "exemplares" : 7
+  }, {
+    "autor" : "Fyodor Dostoevsky",
+    "nome" : "Crime e Castigo",
+    "genero" : "Realismo Psicológico",
+    "exemplares" : 9
+  }, {
+    "autor" : "Virginia Woolf",
+    "nome" : "Ao Farol",
+    "genero" : "Romance Modernista",
+    "exemplares" : 4
+  }, {
+    "autor" : "Franz Kafka",
+    "nome" : "A Metamorfose",
+    "genero" : "Realismo Fantástico",
+    "exemplares" : 3
+  }, {
+    "autor" : "Érico Veríssimo",
+    "nome" : "O Tempo e o Vento",
+    "genero" : "Romance Histórico",
+    "exemplares" : 8
+  }, {
+    "autor" : "J.R.R. Tolkien",
+    "nome" : "O Senhor dos Anéis",
+    "genero" : "Fantasia Épica",
+    "exemplares" : 15
+  } ],
+  "alugados" : [ ]
+}
